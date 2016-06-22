@@ -58,7 +58,7 @@ We'll be using Slack to register attendance and communicate during class. Follow
 
 ---
 <a name="install2"></a>
-### GitHub (10 min)
+### GitHub
 
 We will be using the GitHub service to share some of our code. We will learn
 about the underlying technology of GitHub known as `git` in the next lesson.
