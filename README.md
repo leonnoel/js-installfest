@@ -39,7 +39,7 @@ In addition to in-class participation, students are expected to complete three p
 | Lesson 2 | Data Types || **Project 2**  | Feedr - Your Personalized Feed Reader |
 | Lesson 3| Conditionals and Loops || Lesson 13 | Prototypal Inheritance |
 | Lesson 4 | Functions and Scope || Lesson 14 | Closures and This |
-| Lesson 5 | **Project 1 Lab:**  ||Lesson 15| Intro to Crud and Firebase |
+| Lesson 5 | **Project 1 Lab: Slack Bot**  ||Lesson 15| Intro to Crud and Firebase |
 | Lesson 6 | Objects and JSON ||Lesson 16| Deploying Your App |
 | Lesson 7 | Intro to DOM & jQuery|| Lesson 17 |  Instructor Student Choice |
 | Lesson 8 | DOM & jQuery Continued || Lesson 18 |Lab Time |
