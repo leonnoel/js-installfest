@@ -34,17 +34,17 @@ In addition to in-class participation, students are expected to complete three p
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 0 | [Installfest](../00-installfest/readme.md) || Lesson 11 | [Advanced APIs](../11-advanced-apis/readme.md)|
-| Lesson 1 | [JS on the Command Line](../01-command-line-JS/readme.md) || Lesson 12 | [Lab Time](../12-in-class-lab/readme.md)|
-| Lesson 2 | [Data Types](../02-data-types/readme.md) || **Project 2**  |[ Feedr - Your Personalized Feed Reader](../../projects/unit2/project-02.md) |
-| Lesson 3| [Conditionals and Loops](../03-conditionals-and-loops/readme.md) || Lesson 13 | [Prototypal Inheritance](../13-prototypal-inheritance/readme.md) |
-| Lesson 4 | [Functions and Scope](../04-functions-and-scope/readme.md) || Lesson 14 | [Closures and This](../14-closures-and-this/readme.md) |
-| Lesson 5 | [**Project 1 Lab:** Slackbot](../05-in-class-lab) ||Lesson 15| [Intro to Crud and Firebase](../15-intro-to-crud-and-firebase) |
-| Lesson 6 | [Objects and JSON](../06-objects-and-json/readme.md) ||Lesson 16| [Deploying Your App](../16-deploying-your-app/readme.md) |
-| Lesson 7 | [Intro to DOM & jQuery](../07-intro-to-dom-and-jquery/readme.md)|| Lesson 17 |  [Instructor Student Choice](../17-instructor-student-choice/readme.md) |
-| Lesson 8 | [DOM & jQuery Continued](../08-dom-and-jquery-continued/readme.md) || Lesson 18 |[Lab Time](../18-lab-time/readme.md) |
-| Lesson 9 | [AJAX and APIs](../09-ajax-and-apis/readme.md) ||**Project 3** |[Your Single Page App](../..//projects/unit4/project-04.md) |
-| Lesson 10| [Asynchronous JS and Callbacks](../10-asynchronous-javascript-and-callbacks/readme.md) | |Lesson 19| Final Project Presentations |
+| Lesson 0 | Installfest || Lesson 11 | Advanced APIs
+| Lesson 1 | JS on the Command Line || Lesson 12 | Lab Time
+| Lesson 2 | Data Types || **Project 2**  | Feedr - Your Personalized Feed Reader |
+| Lesson 3| Conditionals and Loops || Lesson 13 | Prototypal Inheritance |
+| Lesson 4 | Functions and Scope || Lesson 14 | Closures and This |
+| Lesson 5 | **Project 1 Lab:**  ||Lesson 15| Intro to Crud and Firebase |
+| Lesson 6 | Objects and JSON ||Lesson 16| Deploying Your App |
+| Lesson 7 | Intro to DOM & jQuery|| Lesson 17 |  Instructor Student Choice |
+| Lesson 8 | DOM & jQuery Continued || Lesson 18 |Lab Time |
+| Lesson 9 | AJAX and APIs ||**Project 3** |Your Single Page App |
+| Lesson 10| Asynchronous JS and Callbacks | |Lesson 19| Final Project Presentations |
 
 ---
 <a name="install1"></a>
