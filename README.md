@@ -14,7 +14,7 @@
 
 - Create a basic website using HTML and CSS
 
-> Note: We won't be covering HTML and CSS in this course. If students need review material, we recommend that they work through [Dash](https://dash.generalassemb.ly/projects). **It is strongly recommended that students have a working knowledge of HTML and CSS before beginning this course.**
+> Note: We won't be covering HTML and CSS in this course. 
 
 ---
 <a name="opening"></a>
